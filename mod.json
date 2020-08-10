@@ -1,0 +1,8 @@
+{
+  "name": "routexit",
+  "displayName": "Routexit",
+  "author": "Gdeft",
+  "description": "Exit the game whenever the script detects routers next to each other.",
+  "version": "1.0",
+  "hidden": true
+}
